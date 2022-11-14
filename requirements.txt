@@ -1,0 +1,14 @@
+APScheduler==3.9.1.post1
+certifi==2022.9.24
+crontab==0.23.0
+distlib==0.3.6
+filelock==3.8.0
+pipenv==2022.11.11
+platformdirs==2.5.4
+pytz==2022.6
+pytz-deprecation-shim==0.1.0.post0
+six==1.16.0
+tzdata==2022.6
+tzlocal==4.2
+virtualenv==20.16.7
+virtualenv-clone==0.5.7
